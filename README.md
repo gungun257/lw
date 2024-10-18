@@ -3,6 +3,7 @@
 计算机毕业设计 论文选题系统 论文管理系统 ，前后端分离，分为三个个角色，管理员和教师和学生
 <br>登录，选题，上传，答辩等功能
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架
@@ -41,7 +42,7 @@
 3. 扫一扫加我微信好友吧，请备注 论文管理系统源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
-
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
